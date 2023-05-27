@@ -24,14 +24,19 @@ CSS: Used for styling the application's components and creating a visually appea
 `Youtube Search and Download` - https://rapidapi.com/h0p3rwe/api/youtube-search-and-download
 
 ## Home Page -
+![Screenshot (234)](https://github.com/soumyasri1/fitness.Github.io/assets/31533704/0f2d7106-3c23-4414-b1bc-b3e68d948e46)
 
 ## Search for exercise? or wanna know which exercise to perform in order to train a particular body part?
+![Screenshot (237)](https://github.com/soumyasri1/fitness.Github.io/assets/31533704/17bbe12d-42ba-461f-bb42-36bbfbea8dea)
 
 ## Let's Explore some exercises....
+![Screenshot (238)](https://github.com/soumyasri1/fitness.Github.io/assets/31533704/a2e8446a-2972-4ad8-9819-c7366724c711)
 
 ## Still confused on how to perform the exercise? Don't worry here's few youtube video links!
+![Screenshot (240)](https://github.com/soumyasri1/fitness.Github.io/assets/31533704/eaaacd29-144e-4912-9806-ec38c767894b)
 
 ## Similar target muscle / equipment exercises
+![Screenshot (241)](https://github.com/soumyasri1/fitness.Github.io/assets/31533704/e2aa0861-3cf9-41ec-a32e-9d845d518389)
 
 # Installation and Setup
 
